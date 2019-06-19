@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81f4eb41.chunk.css",
+    "main.js": "/static/js/main.b65bd1ab.chunk.js",
+    "main.js.map": "/static/js/main.b65bd1ab.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.3310f33a.chunk.js": "/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.38f0f9e7584f909e887936c5879ee1c3.js": "/precache-manifest.38f0f9e7584f909e887936c5879ee1c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.81f4eb41.chunk.css.map": "/static/css/main.81f4eb41.chunk.css.map",
+    "static/media/A.jpg": "/static/media/A.e6c6fe79.jpg",
+    "static/media/College.png": "/static/media/College.b7ae8662.png",
+    "static/media/EY-logo.png": "/static/media/EY-logo.c7bfe8df.png",
+    "static/media/Normal.png": "/static/media/Normal.d8ccd075.png",
+    "static/media/Project.png": "/static/media/Project.350bc332.png",
+    "static/media/School.png": "/static/media/School.38113769.png",
+    "static/media/cg-logo.jpg": "/static/media/cg-logo.bb6f8e29.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  }
+}
