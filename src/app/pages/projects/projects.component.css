@@ -14,6 +14,7 @@ padding-left: 40px;
 .card{
 display: flex;
 flex-direction: row;
+max-height: 250px;
 
 
 }

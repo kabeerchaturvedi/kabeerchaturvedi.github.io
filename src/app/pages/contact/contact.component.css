@@ -30,12 +30,21 @@
 }
   .info{
     width: 100%;
+    display: flex;
+    padding-top:35px;
+  }
+  .kb-about{
+    width:50%;
+  }
+  .info-abt{
+  flex-grow: 1;
 
   }
   .wrapper{
     display: inline-flex;
     text-align: center;
     justify-content: center;
+    padding-top:60px;
 
   }
   .wrapper .icon{
@@ -64,6 +73,13 @@
   .wrapper .icon span i{
     line-height: 60px;
     font-size: 25px;
+  }
+  .wrapper .icon span a{
+    color: #000000;
+  }
+  
+  .wrapper .icon:hover span a{
+    color: #FFFFFF;
   }
   .wrapper .icon .tooltip{
     position: absolute;
